@@ -1,4 +1,4 @@
-# Binary-Classification-with-a-Bank-Churn-Dataset
+# Binary Classification with a Bank Churn Dataset
 
 ## Creating a New Python Environment with Conda
 
